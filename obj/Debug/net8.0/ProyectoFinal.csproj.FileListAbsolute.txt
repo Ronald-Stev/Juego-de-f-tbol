@@ -1,0 +1,28 @@
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\Lenovo.User\OneDrive\Soft-UTEQ\ALGORITMOS\GRUPO\proyecto final\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
+D:\Descargas\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+D:\Descargas\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+D:\Descargas\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+D:\Descargas\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+D:\Descargas\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+D:\Descargas\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
